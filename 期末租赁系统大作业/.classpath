@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/软件安装压缩文件/sqljdbc/sqljdbc/sqljdbc_6.0/chs/jre8/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="D:/软件安装压缩文件/sqljdbc/sqljdbc/sqljdbc_6.0/chs/jre7/sqljdbc41.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
